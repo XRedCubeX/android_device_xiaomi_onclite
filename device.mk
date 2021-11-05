@@ -252,7 +252,7 @@ PRODUCT_PACKAGES += \
     android.hardware.light@2.0-service.onclite
 
 # LiveDisplay
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
     vendor.lineage.livedisplay@2.0-service-sdm
 
 # Media
@@ -370,7 +370,7 @@ PRODUCT_PACKAGES += \
     libshim_dpmframework
 
 # Trust HAL
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
     vendor.lineage.trust@1.0-service
 
 # USB HAL
